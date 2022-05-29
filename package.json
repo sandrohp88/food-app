@@ -1,6 +1,6 @@
 {
   "name": "food-app",
-  "homepage": "https://foo-app.sherrera.dev/",
+  "homepage": "https://food-app.sherrera.dev/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
