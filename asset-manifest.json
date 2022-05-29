@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/foo-app/static/css/main.a76d0928.css",
+    "main.js": "/foo-app/static/js/main.b02cbaec.js",
+    "static/js/787.5dc0e2a0.chunk.js": "/foo-app/static/js/787.5dc0e2a0.chunk.js",
+    "static/media/logo.svg": "/foo-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/foo-app/index.html",
+    "main.a76d0928.css.map": "/foo-app/static/css/main.a76d0928.css.map",
+    "main.b02cbaec.js.map": "/foo-app/static/js/main.b02cbaec.js.map",
+    "787.5dc0e2a0.chunk.js.map": "/foo-app/static/js/787.5dc0e2a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a76d0928.css",
+    "static/js/main.b02cbaec.js"
+  ]
+}
