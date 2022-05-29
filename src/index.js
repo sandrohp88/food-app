@@ -10,7 +10,7 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/food-app" element={<App />}></Route>
+        <Route path="/" element={<App />}></Route>
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
